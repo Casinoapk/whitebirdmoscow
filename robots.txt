@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://whitebird.moscow/sitemap.xml
+Sitemap: https://www.whitebird.moscow/sitemap.xml
+
